@@ -43,4 +43,4 @@ Error: Cannot find module '../highlight_alias.json'
 1. 将`hexo`的基础文件同步到github（[查看我的](https://github.com/jerrydotlam/hexo-blog)）
 2. 主题类安装包也可以直接安装后同步，或者使用Git Submodule的方式进行安装
 3. 主题包里有涉及到自定义修改的内容，比如`_config.yml`配置或一些文件，可单独配置一个目录，在同步安装的时候覆盖掉主题包原来的内容即可；或者更直接的方式，从主题包的github上拉出新分支，将内容修改为自己想要的（高度定制化主题包），然后在使用Git Submodule的方式来进行维护
-4. 后续所有文章发布，甚至是只需要同步`public`目录即可
+4. 一句话总结：说白了就是将文章内容作为`hexo-blog`的一部分，然后拿着这个`hexo-blog`重新`clean`后再`generate`，就是输出了整个文章内容，部署哪都可以
