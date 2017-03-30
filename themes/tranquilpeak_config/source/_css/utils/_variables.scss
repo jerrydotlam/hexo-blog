@@ -12,18 +12,18 @@ $font-family-base: $typography;
 
 $font-families: (
    // base
-   'headings':          $open-sans-sans-serif,
+   'headings':          $typography,
    // components
    'code':              $menlo,
    'caption':           $merriweather-serif,
    'image-gallery':     $open-sans,
    'post-header-cover': $merriweather-serif,
-   'post-meta':         $open-sans-sans-serif,
+   'post-meta':         $typography,
    'post-content':      $merriweather-serif,
-   'post-excerpt-link': $open-sans-sans-serif,
+   'post-excerpt-link': $typography,
    'highlight':         $menlo,
    // layout
-   'sidebar':           $open-sans-sans-serif
+   'sidebar':           $typography
 );
 
 // equal to 15px
