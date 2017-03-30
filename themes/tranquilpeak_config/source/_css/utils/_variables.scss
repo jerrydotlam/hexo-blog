@@ -15,11 +15,11 @@ $font-families: (
    'headings':          $typography,
    // components
    'code':              $menlo,
-   'caption':           $merriweather-serif,
+   'caption':           $typography,
    'image-gallery':     $open-sans,
-   'post-header-cover': $merriweather-serif,
+   'post-header-cover': $typography,
    'post-meta':         $typography,
-   'post-content':      $merriweather-serif,
+   'post-content':      $typography,
    'post-excerpt-link': $typography,
    'highlight':         $menlo,
    // layout
