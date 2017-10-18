@@ -4,9 +4,9 @@
 
 # Site
 title: 好好做学问
-subtitle: 做一个最懂产品的前端攻城狮
+subtitle: 做一个有理想的WEB工程师
 description: 
-author: jerry.lin
+author: jerrydot0
 language: zh-cn
 timezone:
 
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anatole
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
