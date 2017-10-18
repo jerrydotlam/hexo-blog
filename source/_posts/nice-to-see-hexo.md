@@ -1,7 +1,9 @@
 ---
 title: Nice to see hexo
 date: 2017-03-30 15:38:51
+desc: hexo的初试和hexo主题安装
 tags: hexo
+comments: false
 ---
 
 ### 很高兴遇见`hexo`这货。
