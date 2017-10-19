@@ -5,14 +5,14 @@
 # Site
 title: 好好做学问
 subtitle: 做一个有理想的WEB工程师
-description: 
-author: jerrydot0
+description: 从前端看产品，从产品看理想
+author: jerrydotlam
 language: zh-cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jerrydotlam.github.io
+url: http://blog.jerrylin.cc/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,3 +76,9 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
